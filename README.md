@@ -1,5 +1,7 @@
 This repository contains tutorials on LangChain, prompt engineering and managing API keys.
 
+>Note: Relevant sources are linked below.
+
 LangChain:
 * [quick_start_guide.ipynb][LangChain YouTube Tutorial]
 * [Cookbook_part_1.ipynb][LangChain YouTube Tutorial]
